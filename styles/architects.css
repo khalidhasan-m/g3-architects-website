@@ -80,6 +80,7 @@ main > section {
 }
 .banner-image {
   width: 100%;
+  margin-bottom: 45px;
 }
 /* team and feature related styles */
 .teams {
