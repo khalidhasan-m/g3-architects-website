@@ -106,7 +106,26 @@ main > section {
 #features{
   color: #ff900e;
 }
-
+/* featurs you love related styles */
+#feature-border{
+  border-left: 5px solid #ff900e;
+  padding-left: 21px;
+}
+.features1 {
+  gap: 140px;
+}
+.feature-card{
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+  margin-bottom: 20px;
+}
+.feature-card .feature-title{
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 /* some facts related styles */
 .section-title{
   margin: 0 auto;
